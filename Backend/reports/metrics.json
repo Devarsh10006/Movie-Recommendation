@@ -1,0 +1,12 @@
+{
+  "model_name": "RandomForestClassifier (Tuned)",
+  "test_metrics": {
+    "accuracy": 0.7074,
+    "precision": 0.7185,
+    "recall": 0.7708,
+    "f1_score": 0.7437,
+    "roc_auc": 0.7712,
+    "average_precision": 0.792,
+    "test_samples_evaluated": 50000
+  }
+}
